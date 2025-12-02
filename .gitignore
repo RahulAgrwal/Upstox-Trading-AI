@@ -1,0 +1,5 @@
+charts/*
+logs/*
+llm_json_req_res/*
+.env
+__pycache__/
