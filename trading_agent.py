@@ -14,7 +14,6 @@ from nse_500_fetcher import NSE500Fetcher
 from plot_graph_of_stock import StockChartAnalyzer
 from postgres_database import PostgresDatabase
 from upstox_wrapper import UpstoxClient
-from llm_integration import LLMClient
 from risk_manager import RiskManager
 from datetime import datetime, timedelta
 
