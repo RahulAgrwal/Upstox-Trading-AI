@@ -74,6 +74,7 @@ Follow these steps to get the agent running in your local environment.
 - Python 3.10 or higher
 - A valid Upstox Developer Account (to get API keys)
 - PostgreSQL installed and running
+- LLM Keys (Gemini/ChatGPT)
 
 ### 2. Installation
 ```bash
