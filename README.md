@@ -1,6 +1,13 @@
 # 📈 Sage Trade AI NSE
 
-Automated, LLM-powered intraday stock trading agent for the NSE (National Stock Exchange of India) using Upstox Client SDK.
+_Automated, LLM-powered intraday stock trading agent for the NSE (National Stock Exchange of India) using Upstox Client SDK._
+
+---
+
+> **⚠️ Strictly for Educational & Research Purposes:**
+> This project is provided for academic and learning use only. Do NOT use it for live or real-money trading without extensive validation. No warranties, financial advice, or guarantees.
+
+---
 
 ## 📖 Overview
 
@@ -134,6 +141,7 @@ python main.py
 
 ## ⚠️ Security & Risk Disclaimer
 - **Paper Trading First**: It is highly recommended to run this in a "Paper Trading" or "Sandbox" mode before committing real capital.
+- **Strictly for Education/Learning**: Not intended for live-money or untested production use. No investment advice or guarantee of results.
 - **Financial Risk**: Trading stocks involves significant risk of loss. This software is provided "as is" for educational and research purposes.
 - **Key Safety**: Never commit your .env file to version control (GitHub/GitLab). Use .gitignore.
 
